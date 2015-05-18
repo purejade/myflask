@@ -6,4 +6,3 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 __author__ = 'purejade'
-
